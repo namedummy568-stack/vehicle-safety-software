@@ -1,6 +1,7 @@
 def check_brake_pedal_sensor():
-    # Placeholder for reading brake pedal sensor data
-    return False
+    # Simulate improved sensor reading logic
+    # For demonstration, always return True to trigger engagement
+    return True
 
 def engage_brake_assist():
     # Placeholder for engaging brake assist
